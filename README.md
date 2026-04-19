@@ -1,12 +1,24 @@
 <div align="center">
 
+<!-- AVATAR -->
+<a href="https://github.com/vietphamhoccode">
+  <img src="https://i.pinimg.com/236x/18/c7/99/18c79982f5b78f16c11987c358a8d7f8.jpg"
+    width="110"
+    height="110"
+    style="border-radius:50%;border:3px solid #00FFE0;outline:3px solid #FF4AF0;outline-offset:3px;box-shadow:0 0 20px #00ffe066,0 0 40px #ff4af033;"
+    alt="avatar"
+  />
+</a>
+<h1>Việt Phạm</h1>
+<br/><br/>
+
 <!-- BANNER TYPING -->
-<img src="https://i.pinimg.com/236x/18/c7/99/18c79982f5b78f16c11987c358a8d7f8.jpg" alt="Typing SVG" />
+
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/🧠_Vibe-Coder-00FFE0?style=for-the-badge&labelColor=080c10&color=00FFE0" />
+<img src="https://img.shields.io/badge/🧠_Vibe-Coder-00FFE0?style=for-the-badge&labelColor=080c10&color=blue" />
 &nbsp;
 <img src="https://img.shields.io/badge/⚡_AI-Power_User-FF4AF0?style=for-the-badge&labelColor=080c10&color=FF4AF0" />
 &nbsp;
