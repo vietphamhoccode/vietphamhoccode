@@ -34,7 +34,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietphamhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe0&text_color=cdd9e5&langs_count=8" />
+<img align="right" width="360" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vietphamhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe0&text_color=cdd9e5&langs_count=8" />
 
 ### 〔 ⏱ 〕Origin Story
 
@@ -160,6 +160,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=636e7b&center=true&vCenter=true&width=500&lines=không+giỏi+code+·+nhưng+hiểu+cách+hệ+thống+vận+hành" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&pause=3000&color=636e7b&center=true&vCenter=true&width=500&lines=kh%C3%B4ng+gi%E1%BB%8Fi+code+%C2%B7+nh%C6%B0ng+hi%E1%BB%83u+c%C3%A1ch+h%E1%BB%87+th%E1%BB%91ng+v%E1%BA%ADn+h%C3%A0nh" />
 
 </div>
