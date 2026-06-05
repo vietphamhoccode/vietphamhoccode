@@ -42,7 +42,7 @@
 🔹 Lớp 8           →  Lần đầu vọc HTML/CSS
                        Tò mò như thể vừa unlock superpower
 
-🔹 Sau đó          →  Python · PHP · Logic Systems
+🔹 Sau đó          →  Python · PHP · C++ · Logic Systems
                        Học cách hệ thống vận hành
                        Database · API · JWT
 
@@ -61,7 +61,7 @@
 
 | Lĩnh vực | Stack | Mức độ |
 |:---|:---|:---:|
-| 🐍 Vọc tạo tools | `Python` `NodeJS` `Go` `.NET` | ████████░░ |
+| 🐍 Vọc tạo tools | `Python` `NodeJS` `Go` `.NET` `C++` | ████████░░ |
 | 🌐 Frontend basics | `HTML` `CSS` `PHP` | ███████░░░ |
 | 🧠 Logic hệ thống | System design · Architecture | ████████░░ |
 | 🔌 Backend flow | `Database` `REST API` `JWT` | ████████░░ |
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,go,dotnet,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,go,dotnet,cpp,html,css,php&theme=dark" />
 
 </div>
 
@@ -143,9 +143,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vietphamhoccode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe0&icon_color=ff4af0&text_color=cdd9e5&ring_color=00ffe0" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vietphamhoccode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe0&icon_color=ff4af0&text_color=cdd9e5&ring_color=00ffe0" />
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=vietphamhoccode&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFE0&fire=FF4AF0&currStreakLabel=00FFE0&sideLabels=cdd9e5&dates=636e7b&stroke=0d1117" />
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app?user=vietphamhoccode&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFE0&fire=FF4AF0&currStreakLabel=00FFE0&sideLabels=cdd9e5&dates=636e7b&stroke=0d1117" />
 
 </div>
 
