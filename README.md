@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VI%E1%BB%86T%20PH%E1%BA%A0M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20AI%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="banner"/>
 
 **Không giỏi code thuần tay, nhưng hiểu hệ thống vận hành**
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-building-F7C59F?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/badge/focus-Vibe%20Coding-E8A87C?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/badge/location-Vietnam-C38D9E?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/github/followers/vietphamhoccode?style=flat-square&label=followers&color=F7C59F&labelColor=2D1B3D"/>
+<img src="https://img.shields.io/badge/status-building-52B788?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/badge/focus-Vibe%20Coding-74C69D?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/badge/location-Vietnam-95D5B2?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/github/followers/vietphamhoccode?style=flat-square&label=followers&color=52B788&labelColor=1B4332"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-> *Mỗi dự án là một chuyến đi. Có chặng dốc, có chặng bằng phẳng, và luôn có một buổi hoàng hôn ở cuối đường.*
+> *Mỗi dự án là một chuyến đi. Có chặng dốc, có chặng bằng phẳng, và luôn có một buổi sáng xanh ở cuối đường.*
 
 <table>
 <tr>
@@ -61,12 +61,12 @@ Build tool bằng AI mỗi ngày<br/>
 
 | Lĩnh vực | Công nghệ | Mức độ |
 |:---|:---|:---|
-| **Tool Building** | Python · Node.js · Go · .NET · C++ | `█████████▒` |
-| **Frontend** | HTML · CSS · PHP | `███████▒▒▒` |
-| **System Logic** | Design · Architecture | `████████▒▒` |
-| **Backend Flow** | Database · REST · JWT | `████████▒▒` |
+| **Tool Building** | Python · Node.js · Go · .NET · C++ | `█████████░` |
+| **Frontend** | HTML · CSS · PHP | `███████░░░` |
+| **System Logic** | Design · Architecture | `████████░░` |
+| **Backend Flow** | Database · REST · JWT | `████████░░` |
 | **AI Prompting** | Vibe Coding *(kỹ năng chính)* | `██████████` |
-| **QA & Security** | Bug hunting · Logic check | `██████▒▒▒▒` |
+| **QA & Security** | Bug hunting · Logic check | `██████░░░░` |
 
 <br/>
 
@@ -125,8 +125,8 @@ Build tool bằng AI mỗi ngày<br/>
 
 ### Thống kê
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vietphamhoccode&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietphamhoccode&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vietphamhoccode&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietphamhoccode&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -136,10 +136,10 @@ Build tool bằng AI mỗi ngày<br/>
 
 ### Thành tựu
 
-<img src="https://img.shields.io/badge/-Vibe_Coding_Workflow-F7C59F?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/badge/-Tool_Builder_Daily-E8A87C?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/badge/-Bug_Boss_Survivor-C38D9E?style=flat-square&labelColor=2D1B3D"/>
-<img src="https://img.shields.io/badge/-Still_Curious-9A7AA0?style=flat-square&labelColor=2D1B3D"/>
+<img src="https://img.shields.io/badge/-Vibe_Coding_Workflow-52B788?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/badge/-Tool_Builder_Daily-74C69D?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/badge/-Bug_Boss_Survivor-95D5B2?style=flat-square&labelColor=1B4332"/>
+<img src="https://img.shields.io/badge/-Still_Curious-40916C?style=flat-square&labelColor=1B4332"/>
 
 </div>
 
@@ -149,6 +149,6 @@ Build tool bằng AI mỗi ngày<br/>
 
 > *"Code là ngôn ngữ, AI là người phiên dịch, còn ý tưởng mới là thứ quan trọng."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="footer"/>
 
 </div>
