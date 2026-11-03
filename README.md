@@ -125,8 +125,8 @@ Build tool bằng AI mỗi ngày<br/>
 
 ### Thống kê
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vietphamhoccode&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietphamhoccode&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietphamhoccode&theme=transparent" alt="profile"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vietphamhoccode&theme=transparent" alt="languages"/>
 
 </div>
 
