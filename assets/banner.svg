@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D8F3DC"/>
+      <stop offset="100%" stop-color="#95D5B2"/>
+    </linearGradient>
+    <linearGradient id="hill1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#74C69D"/>
+      <stop offset="100%" stop-color="#52B788"/>
+    </linearGradient>
+    <linearGradient id="hill2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#40916C"/>
+      <stop offset="100%" stop-color="#2D6A4F"/>
+    </linearGradient>
+    <linearGradient id="hill3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2D6A4F"/>
+      <stop offset="100%" stop-color="#1B4332"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Bầu trời -->
+  <rect width="1000" height="280" fill="url(#sky)"/>
+
+  <!-- Mặt trời -->
+  <circle cx="800" cy="70" r="36" fill="#FFF3B0" opacity="0.9"/>
+
+  <!-- Núi xa -->
+  <path d="M0 170 Q120 110 250 160 T500 150 T760 130 T1000 165 V280 H0Z" fill="url(#hill1)" opacity="0.7"/>
+
+  <!-- Ruộng bậc thang -->
+  <path d="M0 200 Q200 170 400 195 T800 190 T1000 200 V280 H0Z" fill="url(#hill2)"/>
+  <g stroke="#B7E4C7" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M0 215 Q200 190 400 212 T800 208 T1000 218"/>
+    <path d="M0 232 Q200 210 400 230 T800 226 T1000 236"/>
+    <path d="M0 249 Q200 230 400 248 T800 244 T1000 254"/>
+  </g>
+
+  <!-- Tiền cảnh -->
+  <path d="M0 240 Q300 215 600 238 T1000 232 V280 H0Z" fill="url(#hill3)"/>
+
+  <!-- Tiêu đề -->
+  <text x="500" y="120" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+        font-size="62" font-weight="700" fill="#1B4332" letter-spacing="4">VIỆT PHẠM</text>
+  <text x="500" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+        font-size="20" fill="#2D6A4F" letter-spacing="2">Vibe Coder · AI Full Stack</text>
+</svg>
